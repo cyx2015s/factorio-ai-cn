@@ -1,0 +1,9 @@
+{
+  "title": "公用AI中文汉化包",
+  "name": "quality-calc",
+  "description": "专门汉化没有翻译的模组，将AI翻译结果存储在专门存储库中，尊重原汉化包的人工成果",
+  "version": "0.0.0",
+  "author": "tanvec",
+  "factorio_version": "2.0",
+  "dependencies": ["base", "quality"]
+}
