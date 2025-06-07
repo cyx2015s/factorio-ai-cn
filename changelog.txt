@@ -4,3 +4,4 @@ Date: ????-??-??
   Locale:
     - Update translation for enhanced-shadows, version = 1.0.2
     - Update translation for Flare Stack, version = 3.0.6
+    - Update translation for helmod, version = 2.1.6
