@@ -12,3 +12,4 @@ Date: ????-??-??
     - Update translation for pump, version = 2.1.10
     - Update translation for PHI-CL, version = 3.0.114
     - Update translation for Planet-Hopper, version = 3.0.6
+    - Update translation for SchallLampContrast, version = 2.0.1
