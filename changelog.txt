@@ -11,3 +11,4 @@ Date: ????-??-??
     - Update translation for long_stack_inserter, version = 1.0.1
     - Update translation for pump, version = 2.1.10
     - Update translation for PHI-CL, version = 3.0.114
+    - Update translation for Planet-Hopper, version = 3.0.6
