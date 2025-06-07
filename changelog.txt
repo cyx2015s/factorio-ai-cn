@@ -3,3 +3,4 @@ Version: ?.?.?
 Date: ????-??-??
   Locale:
     - Update translation for enhanced-shadows, version = 1.0.2
+    - Update translation for Flare Stack, version = 3.0.6
