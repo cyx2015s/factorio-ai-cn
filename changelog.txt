@@ -9,6 +9,7 @@ Date: ????-??-??
     - Update translation for lignumis, version = 1.0.52
     - Update translation for RenaiTransportation, version = 2.1.10
     - Update translation for factoryplanner, version = 2.0.20
+    - Update translation for propertyrandomizer, version = 0.3.7
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.7
 Date: 2025-06-07
