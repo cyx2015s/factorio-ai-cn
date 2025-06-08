@@ -7,27 +7,11 @@
   "factorio_version ": " 2.0",
   "dependencies": [
     "base",
-    "(?) enhanced-shadows",
-    "(?) Flare Stack",
     "(?) helmod",
     "(?) snouz_better_substation",
-    "(?) k2-space-age",
     "(?) Krastorio2-spaced-out",
     "(?) long_stack_inserter",
-    "(?) pump",
-    "(?) PHI-CL",
-    "(?) Planet-Hopper",
-    "(?) SchallLampContrast",
-    "(?) ThickerLines",
-    "(?) underground-storage-tank",
-    "(?) muluna-utility-constants",
-    "(?) stack-inserters",
-    "(?) Voidcraft",
-    "(?) QualityPlus",
-    "(?) MythicQuality",
-    "(?) lignumis",
-    "(?) RenaiTransportation",
-    "(?) propertyrandomizer",
-    "(?) factoryplanner"
+    "(?) factoryplanner",
+    "(?) lignumis"
   ]
 }
