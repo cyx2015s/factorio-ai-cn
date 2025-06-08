@@ -11,6 +11,7 @@ Date: ????-??-??
     - Update translation for factoryplanner, version = 2.0.20
     - Update translation for propertyrandomizer, version = 0.3.7
     - Update translation for visible-planets, version = 1.4.8
+    - Update translation for cybersyn, version = 2.0.26
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.7
 Date: 2025-06-07
