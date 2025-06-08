@@ -1,9 +1,9 @@
 {
   "title": " 公用AI中文汉化包",
   "name": "factorio-ai-cn",
-  "description ": " 专门汉化没有翻译的模组，将AI翻译结果存储在专门存储库中，和其他模组的人工翻译分离。出于质量原因，可能会引用其他模组的已有翻译内容。",
+  "description": " 专门汉化没有翻译的模组，将AI翻译结果存储在专门存储库中，和其他模组的人工翻译分离。出于质量原因，可能会引用其他模组的已有翻译内容。",
   "version": "25.6.8",
-  "author ": " tanvec",
+  "author": "tanvec",
   "factorio_version ": " 2.0",
   "dependencies": [
     "base",
