@@ -7,6 +7,7 @@ Date: ????-??-??
     - Update translation for QualityPlus, version = 0.1.4
     - Update translation for MythicQuality, version = 0.1.7
     - Update translation for lignumis, version = 1.0.52
+    - Update translation for RenaiTransportation, version = 2.1.10
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.7
 Date: 2025-06-07
