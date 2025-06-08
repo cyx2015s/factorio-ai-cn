@@ -18,6 +18,7 @@ Date: ????-??-??
     - Update translation for better-victory-screen, version = 1.0.0
     - Update translation for even-pickier-dollies, version = 2.5.4
     - Update translation for Placeables, version = 1.5.4
+    - Update translation for EditMapSettings, version = 0.1.6
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.7
 Date: 2025-06-07
