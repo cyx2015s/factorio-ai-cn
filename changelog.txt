@@ -14,6 +14,7 @@ Date: ????-??-??
     - Update translation for cybersyn, version = 2.0.26
     - Update translation for even-distribution, version = 2.0.2
     - Update translation for mining-patch-planner, version = 1.6.35
+    - Update translation for solar-calc, version = 0.5.52
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.7
 Date: 2025-06-07
