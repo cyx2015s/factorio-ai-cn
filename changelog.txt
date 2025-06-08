@@ -19,6 +19,7 @@ Date: ????-??-??
     - Update translation for even-pickier-dollies, version = 2.5.4
     - Update translation for Placeables, version = 1.5.4
     - Update translation for EditMapSettings, version = 0.1.6
+    - Update translation for regenerate-terrain, version = 0.4.1
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.7
 Date: 2025-06-07
