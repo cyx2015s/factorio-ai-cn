@@ -31,5 +31,6 @@
   "Placeables": "1.5.4",
   "EditMapSettings": "0.1.6",
   "regenerate-terrain": "0.4.1",
-  "some-luaconsole": "2.0.3"
+  "some-luaconsole": "2.0.3",
+  "common-prototypes": "0.0.3"
 }
