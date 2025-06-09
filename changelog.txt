@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 25.6.9
+Date: 2025-06-09
   Bugfixes:
     - fix bug in even picker dollies translation
   Locale:
