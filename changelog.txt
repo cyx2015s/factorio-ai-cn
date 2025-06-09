@@ -3,6 +3,8 @@ Version: ?.?.?
 Date: ????-??-??
   Bugfixes:
     - fix bug in even picker dollies translation
+  Locale:
+    - Update translation for common-prototypes, version = 0.0.3
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.8
 Date: 2025-06-08
