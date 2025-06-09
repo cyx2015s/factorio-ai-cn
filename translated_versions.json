@@ -32,5 +32,6 @@
   "EditMapSettings": "0.1.6",
   "regenerate-terrain": "0.4.1",
   "some-luaconsole": "2.0.3",
-  "common-prototypes": "0.0.3"
+  "common-prototypes": "0.0.3",
+  "SunResources": "0.0.40"
 }
