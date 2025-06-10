@@ -4,6 +4,7 @@ Date: ????-??-??
   Locale:
     - Update translation for dea-dia-system, version = 0.30.0
     - Update translation for cubium, version = 1.0.24
+    - Update translation for terraria, version = 0.0.2
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.9
 Date: 2025-06-09
