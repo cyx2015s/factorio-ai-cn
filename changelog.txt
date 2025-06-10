@@ -2,7 +2,7 @@
 Version: ?.?.?
 Date: ????-??-??
   Locale:
-    - Update translation for quantum-fabricator, version = 2.5.15
+    - Update translation for quantum-fabricator, version = 2.5.15. close #1
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.10
 Date: 2025-06-10
