@@ -34,5 +34,6 @@
   "some-luaconsole": "2.0.3",
   "common-prototypes": "0.0.3",
   "SunResources": "0.0.40",
-  "dea-dia-system": "0.30.0"
+  "dea-dia-system": "0.30.0",
+  "cubium": "1.0.24"
 }
