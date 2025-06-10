@@ -6,6 +6,7 @@ Date: ????-??-??
     - Update translation for StopgapNukes, version = 1.0.9
     - Update translation for warptorio-space-age, version = 0.1.2
     - Update translation for Warp-Drive-Machine, version = 0.9.50
+    - Update translation for teleporting_machine, version = 0.0.3
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.10
 Date: 2025-06-10
