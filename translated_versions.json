@@ -33,5 +33,6 @@
   "regenerate-terrain": "0.4.1",
   "some-luaconsole": "2.0.3",
   "common-prototypes": "0.0.3",
-  "SunResources": "0.0.40"
+  "SunResources": "0.0.40",
+  "dea-dia-system": "0.30.0"
 }
