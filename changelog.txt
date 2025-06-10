@@ -4,6 +4,7 @@ Date: ????-??-??
   Locale:
     - Update translation for quantum-fabricator, version = 2.5.15. close #1
     - Update translation for StopgapNukes, version = 1.0.9
+    - Update translation for warptorio-space-age, version = 0.1.2
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.10
 Date: 2025-06-10
