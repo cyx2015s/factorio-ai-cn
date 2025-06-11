@@ -25,6 +25,7 @@ Date: ????-??-??
     - Update translation for vulcanus-sulfuric-bacteria, version = 1.1.2
     - Update translation for Wood-Walls, version = 1.3.1
     - Update translation for aquilo-seabloom-algaculture, version = 0.4.1
+    - Update translation for pollution-as-surface-property, version = 1.0.1
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.11
 Date: 2025-06-11
