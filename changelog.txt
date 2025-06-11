@@ -22,6 +22,7 @@ Date: ????-??-??
     - Update translation for tenebris-prime, version = 1.3.4
     - Update translation for secretas, version = 1.0.28
     - Update translation for fulgora-coralmium-agriculture, version = 1.2.3
+    - Update translation for vulcanus-sulfuric-bacteria, version = 1.1.2
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.11
 Date: 2025-06-11
