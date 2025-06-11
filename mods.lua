@@ -68,5 +68,6 @@ return {
   ["Mining-Space-Industries-II"] = "0.9.8",
   ["secretas"] = "1.0.28",
   ["tenebris-prime"] = "1.3.4",
-  ["fulgora-coralmium-agriculture"] = "1.2.3"
+  ["fulgora-coralmium-agriculture"] = "1.2.3",
+  ["vulcanus-sulfuric-bacteria"] = "1.1.2"
 }
