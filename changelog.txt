@@ -6,6 +6,7 @@ Date: ????-??-??
     - Update translation for snouz-big-accumulator, version = 1.0.4
     - Update translation for BigAccumulator, version = 1.0.3
     - Update translation for bioprocessing-tab, version = 1.2.0
+    - Update translation for blueprint-sandboxes, version = 3.0.3
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.11
 Date: 2025-06-11
