@@ -55,5 +55,6 @@
   "DoubleSpeedBelts": "1.2.02",
   "est-tiny-storage-tank": "1.3.0",
   "inserter-throughput": "0.1.6",
-  "lex-aircraft": "1.2.2"
+  "lex-aircraft": "1.2.2",
+  "minimalist-rails": "2.0.3"
 }
