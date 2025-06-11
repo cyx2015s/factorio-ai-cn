@@ -69,5 +69,6 @@ return {
   ["secretas"] = "1.0.28",
   ["tenebris-prime"] = "1.3.4",
   ["fulgora-coralmium-agriculture"] = "1.2.3",
-  ["vulcanus-sulfuric-bacteria"] = "1.1.2"
+  ["vulcanus-sulfuric-bacteria"] = "1.1.2",
+  ["Wood-Walls"] = "1.3.1"
 }
