@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 25.6.12
+Date: 2025-06-12
   Locale:
     - Update translation for snouz-big-solar-panel, version = 1.0.5
     - Update translation for snouz-big-accumulator, version = 1.0.4
