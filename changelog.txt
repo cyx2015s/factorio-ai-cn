@@ -15,6 +15,7 @@ Date: ????-??-??
     - Update translation for Robocharger-Updated, version = 0.0.1
     - Update translation for RocketCargoInsertion, version = 1.1.0
     - Update translation for SchallAutolinkedChest, version = 2.0.2
+    - Update translation for science-tab, version = 1.2.0
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.11
 Date: 2025-06-11
