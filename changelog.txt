@@ -10,6 +10,7 @@ Date: ????-??-??
     - Update translation for IridescentIndustry, version = 0.3.2
     - Update translation for Bluetonium, version = 2.4.0
     - Update translation for Mini_Trains, version = 2.0.0
+    - Update translation for Transport_Drones_Meglinge_Fork, version = 1.0.26
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.10
 Date: 2025-06-10
