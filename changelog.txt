@@ -19,6 +19,7 @@ Date: ????-??-??
     - Update translation for tile-upgrade-planner-muluna, version = 1.0.3
     - Update translation for UltimateResearchQueue2, version = 2.0.2
     - Update translation for Mining-Space-Industries-II, version = 0.9.8
+    - Update translation for tenebris-prime, version = 1.3.4
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.11
 Date: 2025-06-11
