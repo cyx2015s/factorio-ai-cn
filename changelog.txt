@@ -7,6 +7,7 @@ Date: ????-??-??
     - Update translation for BigAccumulator, version = 1.0.3
     - Update translation for bioprocessing-tab, version = 1.2.0
     - Update translation for blueprint-sandboxes, version = 3.0.3
+    - Update translation for DoubleSpeedBelts, version = 1.2.02
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.11
 Date: 2025-06-11
