@@ -16,6 +16,7 @@ Date: ????-??-??
     - Update translation for RocketCargoInsertion, version = 1.1.0
     - Update translation for SchallAutolinkedChest, version = 2.0.2
     - Update translation for science-tab, version = 1.2.0
+    - Update translation for tile-upgrade-planner-muluna, version = 1.0.3
 ---------------------------------------------------------------------------------------------------
 Version: 25.6.11
 Date: 2025-06-11
