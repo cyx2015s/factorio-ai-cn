@@ -71,5 +71,6 @@ return {
   ["fulgora-coralmium-agriculture"] = "1.2.3",
   ["vulcanus-sulfuric-bacteria"] = "1.1.2",
   ["Wood-Walls"] = "1.3.1",
-  ["aquilo-seabloom-algaculture"] = "0.4.1"
+  ["aquilo-seabloom-algaculture"] = "0.4.1",
+  ["pollution-as-surface-property"] = "1.0.1"
 }
