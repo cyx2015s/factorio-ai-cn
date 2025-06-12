@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 2025.612.1300
+Date: 2025-06-12
   Locale:
     - Update translation for FarmingInAnotherWorld, version = 1.0.4
     - Update translation for DiscoScience, version = 2.0.1
