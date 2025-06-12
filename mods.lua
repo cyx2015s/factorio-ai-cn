@@ -74,5 +74,6 @@ return {
   ["aquilo-seabloom-algaculture"] = "0.4.1",
   ["pollution-as-surface-property"] = "1.0.1",
   ["FarmingInAnotherWorld"] = "1.0.4",
-  ["DiscoScience"] = "2.0.1"
+  ["DiscoScience"] = "2.0.1",
+  ["tower-defense-evolution"] = "5.0.0"
 }
