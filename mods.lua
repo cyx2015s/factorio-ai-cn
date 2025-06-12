@@ -73,5 +73,6 @@ return {
   ["Wood-Walls"] = "1.3.1",
   ["aquilo-seabloom-algaculture"] = "0.4.1",
   ["pollution-as-surface-property"] = "1.0.1",
-  ["FarmingInAnotherWorld"] = "1.0.4"
+  ["FarmingInAnotherWorld"] = "1.0.4",
+  ["DiscoScience"] = "2.0.1"
 }
