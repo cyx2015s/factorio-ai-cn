@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 2025.613.1100
+Date: 2025-06-13
   Locale:
     - Update translation for Tiered-Solar-System, version = 3.0.1
     - Update translation for factory_solver, version = 0.3.13
