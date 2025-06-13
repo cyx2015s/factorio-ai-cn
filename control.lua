@@ -59,7 +59,7 @@ commands.add_command(
                 if #up_to_date > 0 then
                     player.print("翻译覆盖: " .. table.concat(up_to_date, ", "))
                 end
-                if #old_translation > 0then
+                if #old_translation > 0 then
                     player.print("翻译过时: " .. table.concat(old_translation, ", "))
                 end
                 if #old_mod > 0 then
