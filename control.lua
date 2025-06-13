@@ -50,11 +50,11 @@ script.on_configuration_changed(
 
 commands.add_command(
     "locale_stats",
-    nil,
+    "打印汉化覆盖情况。",
     function(command)
         if command.player_index ~= nil then
             local player = game.get_player(command.player_index)
-            if player.locale == "zh-CN" then
+            if player and player.locale == "zh-CN" then
                 player.print("【提示】此消息仅你可见。")
                 if #up_to_date > 0 then
                     player.print("翻译覆盖: " .. table.concat(up_to_date, ", "))
