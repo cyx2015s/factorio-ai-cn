@@ -76,5 +76,6 @@ return {
   ["FarmingInAnotherWorld"] = "1.0.4",
   ["DiscoScience"] = "2.0.1",
   ["tower-defense-evolution"] = "5.0.0",
-  ["Tiered-Solar-System"] = "3.0.1"
+  ["Tiered-Solar-System"] = "3.0.1",
+  ["factory_solver"] = "0.3.13"
 }
