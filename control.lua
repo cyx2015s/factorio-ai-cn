@@ -65,11 +65,16 @@ commands.add_command(
                 if #old_mod > 0 then
                     player.print("模组过时: " .. table.concat(old_mod, ", "))
                 end
+                if #up_to_date + #old_translation + #old_mod > 0 then
+                    player.print("显示已翻译不代表模组一定全部按照中文显示。原模组代码中硬编码的字符串无法翻译或代价过大。")
+                    player.print("（如检测代码中的显示字符串，然后更改原模组中的硬编码字符串为本地化字符串。）")
+                end
                 if #not_translated > 0 then
                     player.print("无翻译: " .. table.concat(not_translated, ","))
                     player.print("无翻译不代表模组没有汉化，也有可能有以下原因：模组内置汉化；模组无可汉化内容，如为图形资源或函数库")
                 end
                 player.print("本翻译对模组名的处理为，若原文提供了对应键值，则认为原作者意图其他翻译人翻译，否则保留原文。")
+                player.print("本模组提供的翻译内容全部为 AI 翻译，请仔细辨别使用。")
                 player.print("前往 https://mods.factorio.com/mod/factorio-ai-cn 查看更多信息。")
             end
         end
