@@ -29,7 +29,7 @@ for name, version in pairs(script.active_mods) do
         local cmp = helpers.compare_versions(version, translation_version)
         if cmp == 0 then
             table.insert(up_to_date, name)
-        elseif cmp < 0 then
+        elseif cmp > 0 then
             table.insert(old_translation, name)
         else
             table.insert(old_mod, name)
