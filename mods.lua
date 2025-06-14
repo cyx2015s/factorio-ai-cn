@@ -77,5 +77,6 @@ return {
   ["DiscoScience"] = "2.0.1",
   ["tower-defense-evolution"] = "5.0.0",
   ["Tiered-Solar-System"] = "3.0.1",
-  ["factory_solver"] = "0.3.13"
+  ["factory_solver"] = "0.3.13",
+  ["0-event-trace"] = "0.3.3"
 }
