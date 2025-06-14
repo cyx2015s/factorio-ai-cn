@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 2025.614.2000
+Date: 2025-06-14
   Locale:
     - Update translation for 0-event-trace, version = 0.3.3
     - Update translation for gvv, version = 0.5.5
