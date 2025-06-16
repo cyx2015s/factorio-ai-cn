@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 2025.616.1455
+Date: 2025-06-16
   Locale:
     - Update translation for fluid-memory-storage, version = 1.7.8
     - Update translation for Cold_biters, version = 2.1.0
