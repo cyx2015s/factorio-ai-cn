@@ -100,5 +100,6 @@ return {
   ["Cold_biters"] = "2.1.0",
   ["ModuleInserterSimplified"] = "2.1.1",
   ["new-diagonal-inserter"] = "1.0.5",
-  ["SpidertronEnhancements"] = "1.10.8"
+  ["SpidertronEnhancements"] = "1.10.8",
+  ["ups-fps"] = "0.4.0"
 }

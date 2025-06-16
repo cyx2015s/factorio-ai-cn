@@ -195,5 +195,10 @@ return {
   ["version"] = "1.4.1",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["Teleporters"] = {
+  ["version"] = "2.0.0",
+  ["coverage"] = 0.8888888888888888,
+  ["reason"] = "builtin"
 }
 }
