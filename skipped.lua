@@ -215,5 +215,10 @@ return {
   ["version"] = "1.1.4",
   ["coverage"] = 0.9772727272727273,
   ["reason"] = "builtin"
+},
+  ["Gavin-zhcn"] = {
+  ["version"] = "1.0.0",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }
