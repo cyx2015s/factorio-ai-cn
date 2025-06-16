@@ -9,6 +9,7 @@ Date: ????-??-??
     - Update translation for artsCore, version = 2.0.7
     - Update translation for far-reach, version = 2.0.0
     - Update translation for FilterHelper, version = 0.2.19
+    - Update translation for quality_glassware, version = 0.1.0
 ---------------------------------------------------------------------------------------------------
 Version: 2025.614.2000
 Date: 2025-06-14
