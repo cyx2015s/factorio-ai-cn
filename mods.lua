@@ -107,5 +107,6 @@ return {
   ["Redrawn-Space-Connections"] = "2.2.0",
   ["TLBE"] = "2.1.0",
   ["Inverted-Quality"] = "1.4.3",
-  ["tall-chests"] = "0.1.0"
+  ["tall-chests"] = "0.1.0",
+  ["Small-Space-Age"] = "2.1.2"
 }
