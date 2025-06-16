@@ -22,7 +22,7 @@ return {
   ["lignumis"] = "1.0.52",
   ["RenaiTransportation"] = "2.1.10",
   ["propertyrandomizer"] = "0.3.7",
-  ["factoryplanner"] = "2.0.20",
+  ["factoryplanner"] = "2.0.21",
   ["visible-planets"] = "1.4.8",
   ["cybersyn"] = "2.0.26",
   ["even-distribution"] = "2.0.2",
