@@ -102,5 +102,6 @@ return {
   ["new-diagonal-inserter"] = "1.0.5",
   ["SpidertronEnhancements"] = "1.10.8",
   ["ups-fps"] = "0.4.0",
-  ["factoripedia"] = "0.1.0"
+  ["factoripedia"] = "0.1.0",
+  ["elevated-pipes"] = "1.3.1"
 }
