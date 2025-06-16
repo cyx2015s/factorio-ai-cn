@@ -4,6 +4,7 @@ Date: ????-??-??
   Locale:
     - Update translation for TLBE, version = 2.1.0
     - Update translation for Inverted-Quality, version = 1.4.3
+    - Update translation for tall-chests, version = 0.1.0
 ---------------------------------------------------------------------------------------------------
 Version: 2025.616.2217
 Date: 2025-06-16
