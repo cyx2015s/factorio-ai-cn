@@ -5,6 +5,7 @@ Date: ????-??-??
     - Update translation for belt-visualizer, version = 2.0.2
     - Update translation for ArmouredBiters, version = 1.2.1
     - Update translation for blueprint_reader, version = 2.0.2
+    - Update translation for Custom-Production-UI-Fixed, version = 2.0.0
 ---------------------------------------------------------------------------------------------------
 Version: 2025.614.2000
 Date: 2025-06-14
