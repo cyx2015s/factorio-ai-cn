@@ -3,6 +3,7 @@ Version: ?.?.?
 Date: ????-??-??
   Locale:
     - Update translation for TLBE, version = 2.1.0
+    - Update translation for Inverted-Quality, version = 1.4.3
 ---------------------------------------------------------------------------------------------------
 Version: 2025.616.2217
 Date: 2025-06-16
