@@ -87,5 +87,6 @@ return {
   ["artsCore"] = "2.0.7",
   ["far-reach"] = "2.0.0",
   ["FilterHelper"] = "0.2.19",
-  ["quality_glassware"] = "0.1.0"
+  ["quality_glassware"] = "0.1.0",
+  ["red-quickstart"] = "2.1.0"
 }
