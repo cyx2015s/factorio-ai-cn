@@ -90,5 +90,6 @@ return {
   ["quality_glassware"] = "0.1.0",
   ["red-quickstart"] = "2.1.0",
   ["aai-containers"] = "0.3.1",
-  ["aai-signal-transmission"] = "0.5.1"
+  ["aai-signal-transmission"] = "0.5.1",
+  ["Combo-Technology"] = "0.1.1"
 }

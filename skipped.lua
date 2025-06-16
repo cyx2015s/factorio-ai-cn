@@ -40,5 +40,10 @@ return {
   ["version"] = "3.3.7",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["advanced-chemical-plant"] = {
+  ["version"] = "2.3.0",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }
