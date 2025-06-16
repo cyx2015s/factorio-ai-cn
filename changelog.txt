@@ -11,6 +11,7 @@ Date: ????-??-??
     - Update translation for FilterHelper, version = 0.2.19
     - Update translation for quality_glassware, version = 0.1.0
     - Update translation for red-quickstart, version = 2.1.0
+    - Update translation for aai-containers, version = 0.3.1
 ---------------------------------------------------------------------------------------------------
 Version: 2025.614.2000
 Date: 2025-06-14
