@@ -13,6 +13,7 @@ Date: ????-??-??
     - Update translation for red-quickstart, version = 2.1.0
     - Update translation for aai-containers, version = 0.3.1
     - Update translation for aai-signal-transmission, version = 0.5.1
+    - Update translation for Combo-Technology, version = 0.1.1
 ---------------------------------------------------------------------------------------------------
 Version: 2025.614.2000
 Date: 2025-06-14
