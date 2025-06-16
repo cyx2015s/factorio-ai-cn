@@ -4,6 +4,7 @@ Date: ????-??-??
   Locale:
     - Update translation for ModuleInserterSimplified, version = 2.1.1
     - Update translation for new-diagonal-inserter, version = 1.0.5
+    - Update translation for SpidertronEnhancements, version = 1.10.8
 ---------------------------------------------------------------------------------------------------
 Version: 2025.616.1455
 Date: 2025-06-16
