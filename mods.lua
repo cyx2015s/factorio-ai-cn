@@ -109,5 +109,6 @@ return {
   ["Inverted-Quality"] = "1.4.3",
   ["tall-chests"] = "0.1.0",
   ["Small-Space-Age"] = "2.1.2",
-  ["sw-rates-calc-extreme"] = "0.1.0"
+  ["sw-rates-calc-extreme"] = "0.1.0",
+  ["sw-rates-calc"] = "0.2.0"
 }
