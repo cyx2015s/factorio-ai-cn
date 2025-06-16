@@ -25,5 +25,20 @@ return {
   ["version"] = "1.1.0",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["TimeTools"] = {
+  ["version"] = "3.0.8",
+  ["coverage"] = 0.95,
+  ["reason"] = "builtin"
+},
+  ["Milestones"] = {
+  ["version"] = "1.4.5",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
+},
+  ["RateCalculator"] = {
+  ["version"] = "3.3.7",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }
