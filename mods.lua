@@ -92,5 +92,6 @@ return {
   ["aai-containers"] = "0.3.1",
   ["aai-signal-transmission"] = "0.5.1",
   ["Combo-Technology"] = "0.1.1",
-  ["more-casting"] = "0.0.12"
+  ["more-casting"] = "0.0.12",
+  ["P2P-automation"] = "1.3.0"
 }
