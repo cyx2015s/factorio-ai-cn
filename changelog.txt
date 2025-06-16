@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 2025.617.651
+Date: 2025-06-17
   Locale:
     - Update translation for TLBE, version = 2.1.0
     - Update translation for Inverted-Quality (为了防止词条覆盖，仅部分), version = 1.4.3
