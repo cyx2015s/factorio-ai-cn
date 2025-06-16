@@ -200,5 +200,20 @@ return {
   ["version"] = "2.0.0",
   ["coverage"] = 0.8888888888888888,
   ["reason"] = "builtin"
+},
+  ["Paracelsin-Graphics"] = {
+  ["version"] = "0.0.0",
+  ["coverage"] = 0.0,
+  ["reason"] = "graphic"
+},
+  ["tenebris"] = {
+  ["version"] = "0.2.1",
+  ["coverage"] = 0.9354838709677419,
+  ["reason"] = "builtin"
+},
+  ["Paracelsin"] = {
+  ["version"] = "1.1.4",
+  ["coverage"] = 0.9772727272727273,
+  ["reason"] = "builtin"
 }
 }

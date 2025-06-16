@@ -103,5 +103,6 @@ return {
   ["SpidertronEnhancements"] = "1.10.8",
   ["ups-fps"] = "0.4.0",
   ["factoripedia"] = "0.1.0",
-  ["elevated-pipes"] = "1.3.1"
+  ["elevated-pipes"] = "1.3.1",
+  ["Redrawn-Space-Connections"] = "2.2.0"
 }
