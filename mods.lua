@@ -105,5 +105,6 @@ return {
   ["factoripedia"] = "0.1.0",
   ["elevated-pipes"] = "1.3.1",
   ["Redrawn-Space-Connections"] = "2.2.0",
-  ["TLBE"] = "2.1.0"
+  ["TLBE"] = "2.1.0",
+  ["Inverted-Quality"] = "1.4.3"
 }
