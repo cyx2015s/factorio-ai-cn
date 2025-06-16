@@ -16,6 +16,7 @@ Date: ????-??-??
     - Update translation for Combo-Technology, version = 0.1.1
     - Update translation for more-casting, version = 0.0.12
     - Update translation for P2P-automation, version = 1.3.0
+    - Update translation for artsDugWaterformodplant, version = 0.0.4
 ---------------------------------------------------------------------------------------------------
 Version: 2025.614.2000
 Date: 2025-06-14
