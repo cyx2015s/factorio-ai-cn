@@ -84,5 +84,6 @@ return {
   ["ArmouredBiters"] = "1.2.1",
   ["blueprint_reader"] = "2.0.2",
   ["Custom-Production-UI-Fixed"] = "2.0.0",
-  ["artsCore"] = "2.0.7"
+  ["artsCore"] = "2.0.7",
+  ["far-reach"] = "2.0.0"
 }
