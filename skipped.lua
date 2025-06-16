@@ -10,5 +10,20 @@ return {
   ["version"] = "1.4.2",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["fluent-emoji"] = {
+  ["version"] = "1.1.0",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
+},
+  ["k2-fluid-storage"] = {
+  ["version"] = "1.2.1",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
+},
+  ["New-Trains"] = {
+  ["version"] = "1.1.0",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }

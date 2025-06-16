@@ -86,5 +86,6 @@ return {
   ["Custom-Production-UI-Fixed"] = "2.0.0",
   ["artsCore"] = "2.0.7",
   ["far-reach"] = "2.0.0",
-  ["FilterHelper"] = "0.2.19"
+  ["FilterHelper"] = "0.2.19",
+  ["quality_glassware"] = "0.1.0"
 }
