@@ -5,5 +5,10 @@ return {
   ["version"] = "2.0.2",
   ["coverage"] = 0.0,
   ["reason"] = "builtin"
+},
+  ["ArmouredBiters"] = {
+  ["version"] = "1.2.1",
+  ["coverage"] = 0.0,
+  ["reason"] = "builtin"
 }
 }

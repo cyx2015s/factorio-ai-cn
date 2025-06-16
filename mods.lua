@@ -80,5 +80,6 @@ return {
   ["factory_solver"] = "0.3.13",
   ["0-event-trace"] = "0.3.3",
   ["gvv"] = "0.5.5",
-  ["belt-visualizer"] = "2.0.2"
+  ["belt-visualizer"] = "2.0.2",
+  ["ArmouredBiters"] = "1.2.1"
 }
