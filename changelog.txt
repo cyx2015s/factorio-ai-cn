@@ -5,6 +5,7 @@ Date: ????-??-??
     - Update translation for TLBE, version = 2.1.0
     - Update translation for Inverted-Quality (为了防止词条覆盖，仅部分), version = 1.4.3
     - Update translation for tall-chests, version = 0.1.0
+    - Update translation for Small-Space-Age, version = 2.1.2
 ---------------------------------------------------------------------------------------------------
 Version: 2025.616.2217
 Date: 2025-06-16
