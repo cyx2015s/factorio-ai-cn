@@ -81,5 +81,6 @@ return {
   ["0-event-trace"] = "0.3.3",
   ["gvv"] = "0.5.5",
   ["belt-visualizer"] = "2.0.2",
-  ["ArmouredBiters"] = "1.2.1"
+  ["ArmouredBiters"] = "1.2.1",
+  ["blueprint_reader"] = "2.0.2"
 }
