@@ -97,5 +97,6 @@ return {
   ["artsDugWaterformodplant"] = "0.0.4",
   ["deep-storage-unit"] = "1.6.8",
   ["fluid-memory-storage"] = "1.7.8",
-  ["Cold_biters"] = "2.1.0"
+  ["Cold_biters"] = "2.1.0",
+  ["ModuleInserterSimplified"] = "2.1.1"
 }
