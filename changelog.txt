@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------
-Version: 2025.617.651
+Version: 0.2506.1706
 Date: 2025-06-17
   Locale:
     - Update translation for TLBE, version = 2.1.0
@@ -11,12 +11,12 @@ Date: 2025-06-17
     - Update translation for sw-rates-lib, version = 0.2.0
     - Update translation for sw-rates-reactor-layout, version = 0.2.0
 ---------------------------------------------------------------------------------------------------
-Version: 2025.616.2217
+Version: 0.2506.1622
 Date: 2025-06-16
   Bugfixes:
     - fix a wrong locale key
 ---------------------------------------------------------------------------------------------------
-Version: 2025.616.1901
+Version: 0.2506.1619
 Date: 2025-06-16
   Locale:
     - Update translation for ModuleInserterSimplified, version = 2.1.1
@@ -27,13 +27,13 @@ Date: 2025-06-16
     - Update translation for elevated-pipes, version = 1.3.1
     - Update translation for Redrawn-Space-Connections, version = 2.2.0
 ---------------------------------------------------------------------------------------------------
-Version: 2025.616.1455
+Version: 0.2506.1614
 Date: 2025-06-16
   Locale:
     - Update translation for fluid-memory-storage, version = 1.7.8
     - Update translation for Cold_biters, version = 2.1.0
 ---------------------------------------------------------------------------------------------------
-Version: 2025.616.1346
+Version: 0.2506.1613
 Date: 2025-06-16
   Locale:
     - Update translation for belt-visualizer, version = 2.0.2
@@ -54,31 +54,31 @@ Date: 2025-06-16
   Minor Features:
     - added a button to show current locale stats and can copy export.
 ---------------------------------------------------------------------------------------------------
-Version: 2025.614.2000
+Version: 0.2506.1420
 Date: 2025-06-14
   Locale:
     - Update translation for 0-event-trace, version = 0.3.3
     - Update translation for gvv, version = 0.5.5
 ---------------------------------------------------------------------------------------------------
-Version: 2025.613.1100
+Version: 0.2506.1311
 Date: 2025-06-13
   Locale:
     - Update translation for Tiered-Solar-System, version = 3.0.1
     - Update translation for factory_solver, version = 0.3.13
 ---------------------------------------------------------------------------------------------------
-Version: 2025.612.1300
+Version: 0.2506.1213
 Date: 2025-06-12
   Locale:
     - Update translation for FarmingInAnotherWorld, version = 1.0.4
     - Update translation for DiscoScience, version = 2.0.1
     - Update translation for tower-defense-evolution, version = 5.0.0
 ---------------------------------------------------------------------------------------------------
-Version: 2025.612.1027
+Version: 0.2506.1210
 Date: 2025-06-12
   Minor Features:
     - added a command to print locale stats
 ---------------------------------------------------------------------------------------------------
-Version: 25.6.12
+Version: 0.2506.1200
 Date: 2025-06-12
   Locale:
     - Update translation for snouz-big-solar-panel, version = 1.0.5
@@ -106,7 +106,7 @@ Date: 2025-06-12
     - Update translation for aquilo-seabloom-algaculture, version = 0.4.1
     - Update translation for pollution-as-surface-property, version = 1.0.1
 ---------------------------------------------------------------------------------------------------
-Version: 25.6.11
+Version: 0.2506.1100
 Date: 2025-06-11
   Locale:
     - Update translation for quantum-fabricator, version = 2.5.15. close #1
@@ -119,7 +119,7 @@ Date: 2025-06-11
     - Update translation for Mini_Trains, version = 2.0.0
     - Update translation for Transport_Drones_Meglinge_Fork, version = 1.0.26
 ---------------------------------------------------------------------------------------------------
-Version: 25.6.10
+Version: 0.2506.1000
 Date: 2025-06-10
   Locale:
     - Update translation for dea-dia-system, version = 0.30.0
@@ -127,7 +127,7 @@ Date: 2025-06-10
     - Update translation for terraria, version = 0.0.2
     - Update translation for Igrys, version = 1.5.0
 ---------------------------------------------------------------------------------------------------
-Version: 25.6.9
+Version: 0.2506.900
 Date: 2025-06-09
   Bugfixes:
     - fix bug in even picker dollies translation
@@ -135,7 +135,7 @@ Date: 2025-06-09
     - Update translation for common-prototypes, version = 0.0.3
     - Update translation for SunResources, version = 0.0.40
 ---------------------------------------------------------------------------------------------------
-Version: 25.6.8
+Version: 0.2506.800
 Date: 2025-06-08
   Locale:
     - Update translation for stack-inserters, version = 1.0.1
@@ -158,7 +158,7 @@ Date: 2025-06-08
     - Update translation for regenerate-terrain, version = 0.4.1
     - Update translation for some-luaconsole, version = 2.0.3
 ---------------------------------------------------------------------------------------------------
-Version: 25.6.7
+Version: 0.2506.700
 Date: 2025-06-07
   Locale:
     - Update translation for enhanced-shadows, version = 1.0.2
