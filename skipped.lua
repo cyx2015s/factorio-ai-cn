@@ -45,5 +45,10 @@ return {
   ["version"] = "2.3.0",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["corrundum"] = {
+  ["version"] = "1.0.40",
+  ["coverage"] = 0.8832684824902723,
+  ["reason"] = "builtin"
 }
 }
