@@ -110,5 +110,55 @@ return {
   ["version"] = "1.0.20",
   ["coverage"] = 0.8514285714285714,
   ["reason"] = "builtin"
+},
+  ["common-prototypes-graphics"] = {
+  ["version"] = "0.0.0",
+  ["coverage"] = 0.0,
+  ["reason"] = "graphic"
+},
+  ["alien-biomes-graphics"] = {
+  ["version"] = "0.0.0",
+  ["coverage"] = 0.0,
+  ["reason"] = "graphic"
+},
+  ["flib"] = {
+  ["version"] = "0.16.3",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
+},
+  ["FluidMustFlow"] = {
+  ["version"] = "1.4.3",
+  ["coverage"] = 0.8928571428571429,
+  ["reason"] = "builtin"
+},
+  ["informatron"] = {
+  ["version"] = "0.4.0",
+  ["coverage"] = 0.8666666666666667,
+  ["reason"] = "builtin"
+},
+  ["metal-and-stars-graphics"] = {
+  ["version"] = "0.0.0",
+  ["coverage"] = 0.0,
+  ["reason"] = "graphic"
+},
+  ["metal-and-stars-graphics-2"] = {
+  ["version"] = "0.0.0",
+  ["coverage"] = 0.0,
+  ["reason"] = "graphic"
+},
+  ["muluna-graphics"] = {
+  ["version"] = "0.0.0",
+  ["coverage"] = 0.0,
+  ["reason"] = "graphic"
+},
+  ["BottleneckLite"] = {
+  ["version"] = "1.3.4",
+  ["coverage"] = 0.9523809523809523,
+  ["reason"] = "builtin"
+},
+  ["StatsGui"] = {
+  ["version"] = "1.6.1",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }

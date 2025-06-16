@@ -94,5 +94,8 @@ return {
   ["Combo-Technology"] = "0.1.1",
   ["more-casting"] = "0.0.12",
   ["P2P-automation"] = "1.3.0",
-  ["artsDugWaterformodplant"] = "0.0.4"
+  ["artsDugWaterformodplant"] = "0.0.4",
+  ["deep-storage-unit"] = "1.6.8",
+  ["fluid-memory-storage"] = "1.7.8",
+  ["Cold_biters"] = "2.1.0"
 }
