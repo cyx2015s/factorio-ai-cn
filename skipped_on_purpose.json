@@ -48,5 +48,65 @@
     "version": "1.0.40",
     "coverage": 0.8832684824902723,
     "reason": "builtin"
+  },
+  "PlanetsLib": {
+    "version": "1.6.1",
+    "coverage": 1.0,
+    "reason": "builtin"
+  },
+  "se-space-trains": {
+    "version": "1.0.9",
+    "coverage": 1.0,
+    "reason": "builtin"
+  },
+  "VanillaReviseV2-database": {
+    "version": "1.5.0",
+    "coverage": 1.0,
+    "reason": "builtin"
+  },
+  "water-pumpjack": {
+    "version": "2.4.2",
+    "coverage": 1.0,
+    "reason": "builtin"
+  },
+  "VanillaReviseV2": {
+    "version": "3.6.2",
+    "coverage": 1.0,
+    "reason": "builtin"
+  },
+  "planet-muluna": {
+    "version": "1.44.5",
+    "coverage": 1.0,
+    "reason": "builtin"
+  },
+  "Player-Upgrade-System": {
+    "version": "1.3.1",
+    "coverage": 1.0,
+    "reason": "builtin"
+  },
+  "resource-editor-tool": {
+    "version": "2.1.1",
+    "coverage": 1.0,
+    "reason": "builtin"
+  },
+  "space_teleport_v2": {
+    "version": "1.7.0",
+    "coverage": 1.0,
+    "reason": "builtin"
+  },
+  "Unlimited_Inventory": {
+    "version": "1.5.1",
+    "coverage": 1.0,
+    "reason": "builtin"
+  },
+  "metal-and-stars": {
+    "version": "0.1.12",
+    "coverage": 1.0,
+    "reason": "builtin"
+  },
+  "Moshine": {
+    "version": "1.0.20",
+    "coverage": 0.8514285714285714,
+    "reason": "builtin"
   }
 }
