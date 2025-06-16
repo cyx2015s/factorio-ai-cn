@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 2025.616.1346
+Date: 2025-06-16
   Locale:
     - Update translation for belt-visualizer, version = 2.0.2
     - Update translation for ArmouredBiters, version = 1.2.1
