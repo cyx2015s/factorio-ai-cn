@@ -220,5 +220,10 @@ return {
   ["version"] = "1.0.0",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["slp-underground-poles"] = {
+  ["version"] = "1.0.4",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }

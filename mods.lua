@@ -114,5 +114,6 @@ return {
   ["sw-rates-lib"] = "0.2.0",
   ["sw-rates-reactor-layout"] = "0.2.0",
   ["baketorio_plus"] = "0.2.4",
-  ["slp-dyson-sphere-reworked"] = "1.0.2"
+  ["slp-dyson-sphere-reworked"] = "1.0.2",
+  ["slp-high-capacity-batteries"] = "1.1.3"
 }
