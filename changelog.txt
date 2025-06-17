@@ -3,6 +3,7 @@ Version: ?.?.?
 Date: ????-??-??
   Locale:
     - Update translation for baketorio_plus, version = 0.2.4
+    - Update translation for slp-dyson-sphere-reworked, version = 1.0.2
 ---------------------------------------------------------------------------------------------------
 Version: 0.2506.1713
 Date: 2025-06-17
