@@ -112,5 +112,6 @@ return {
   ["sw-rates-calc-extreme"] = "0.1.0",
   ["sw-rates-calc"] = "0.2.0",
   ["sw-rates-lib"] = "0.2.0",
-  ["sw-rates-reactor-layout"] = "0.2.0"
+  ["sw-rates-reactor-layout"] = "0.2.0",
+  ["baketorio_plus"] = "0.2.4"
 }
