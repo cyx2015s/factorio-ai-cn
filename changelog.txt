@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2506.1713
+Date: 2025-06-17
+  Locale:
+    - Removed SpidertronEnhancements translation, as it will override base game translation.
+---------------------------------------------------------------------------------------------------
 Version: 0.2506.1707
 Date: 2025-06-17
   Minor Features:
