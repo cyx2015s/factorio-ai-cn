@@ -83,7 +83,6 @@
   "blueprint_reader": "2.0.2",
   "Custom-Production-UI-Fixed": "2.0.0",
   "artsCore": "2.0.7",
-  "far-reach": "2.0.0",
   "FilterHelper": "0.2.19",
   "quality_glassware": "0.1.0",
   "red-quickstart": "2.1.0",
@@ -127,5 +126,6 @@
   "aai-loaders": "0.2.7",
   "castra": "0.5.4",
   "any-planet-start": "1.1.18",
-  "discovery_tree": "1.0.9"
+  "discovery_tree": "1.0.9",
+  "far-reach": "2.0.0"
 }
