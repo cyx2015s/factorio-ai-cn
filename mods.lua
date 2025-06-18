@@ -126,5 +126,6 @@ return {
   ["simultaneous-research"] = "0.5.0",
   ["recipe_combinator"] = "0.1.10",
   ["YARM"] = "1.0.5",
-  ["aai-loaders"] = "0.2.7"
+  ["aai-loaders"] = "0.2.7",
+  ["castra"] = "0.5.4"
 }
