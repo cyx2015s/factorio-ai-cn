@@ -119,5 +119,6 @@ return {
   ["spiderbots"] = "0.3.0",
   ["companion-drones"] = "2.0.10",
   ["Carnotorio"] = "0.1.2",
-  ["osha_launch_control"] = "2.0.1"
+  ["osha_launch_control"] = "2.0.1",
+  ["simple-cottage"] = "1.1.0"
 }
