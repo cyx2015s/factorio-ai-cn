@@ -10,6 +10,7 @@ Date: ????-??-??
     - Update translation for washbox, version = 1.0.2
     - Update translation for supply-labs-with-construction-robots, version = 2.0.1
     - Update translation for simultaneous-research, version = 0.5.0
+    - Update translation for recipe_combinator, version = 0.1.10
 ---------------------------------------------------------------------------------------------------
 Version: 0.2506.1716
 Date: 2025-06-17
