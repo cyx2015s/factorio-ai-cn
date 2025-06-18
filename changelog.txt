@@ -3,6 +3,7 @@ Version: ?.?.?
 Date: ????-??-??
   Locale:
     - Update translation for spiderbots, version = 0.3.0
+    - Update translation for companion-drones, version = 2.0.10
 ---------------------------------------------------------------------------------------------------
 Version: 0.2506.1716
 Date: 2025-06-17
