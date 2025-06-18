@@ -14,6 +14,7 @@ Date: ????-??-??
     - Update translation for YARM, version = 1.0.5
     - Update translation for aai-loaders, version = 0.2.7
     - Update translation for castra, version = 0.5.4
+    - Update translation for any-planet-start, version = 1.1.18
 ---------------------------------------------------------------------------------------------------
 Version: 0.2506.1716
 Date: 2025-06-17
