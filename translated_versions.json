@@ -123,5 +123,6 @@
   "supply-labs-with-construction-robots": "2.0.1",
   "simultaneous-research": "0.5.0",
   "recipe_combinator": "0.1.10",
-  "YARM": "1.0.5"
+  "YARM": "1.0.5",
+  "aai-loaders": "0.2.7"
 }
