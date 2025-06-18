@@ -225,5 +225,10 @@ return {
   ["version"] = "1.0.4",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["Mining_Drones_Remastered"] = {
+  ["version"] = "2.1.5",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }
