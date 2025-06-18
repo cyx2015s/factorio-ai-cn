@@ -117,5 +117,6 @@ return {
   ["slp-dyson-sphere-reworked"] = "1.0.2",
   ["slp-high-capacity-batteries"] = "1.1.3",
   ["spiderbots"] = "0.3.0",
-  ["companion-drones"] = "2.0.10"
+  ["companion-drones"] = "2.0.10",
+  ["Carnotorio"] = "0.1.2"
 }
