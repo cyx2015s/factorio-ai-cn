@@ -130,5 +130,6 @@ return {
   ["any-planet-start"] = "1.1.18",
   ["discovery_tree"] = "1.0.9",
   ["far-reach"] = "2.0.0",
-  ["motherbase"] = "1.0.3"
+  ["motherbase"] = "1.0.3",
+  ["holographic_signs"] = "2.0.8"
 }
