@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 0.2506.1912
+Date: 2025-06-19
   Locale:
     - Update translation for discovery_tree, version = 1.0.9
     - Update translation for far-reach, version = 2.0.0
