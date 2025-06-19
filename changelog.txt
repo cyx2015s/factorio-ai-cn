@@ -5,6 +5,7 @@ Date: ????-??-??
     - Update translation for discovery_tree, version = 1.0.9
     - Update translation for far-reach, version = 2.0.0
     - Update translation for motherbase, version = 1.0.3
+    - Update translation for holographic_signs, version = 2.0.8
 ---------------------------------------------------------------------------------------------------
 Version: 0.2506.1816
 Date: 2025-06-18
