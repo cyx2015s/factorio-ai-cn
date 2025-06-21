@@ -3,6 +3,7 @@ Version: ?.?.?
 Date: ????-??-??
   Locale:
     - Update translation for LogisticTrainNetwork, version = 2.3.3
+    - Update translation for LTN_Combinator_Modernized, version = 2.2.5
 ---------------------------------------------------------------------------------------------------
 Version: 0.2506.1921
 Date: 2025-06-19
