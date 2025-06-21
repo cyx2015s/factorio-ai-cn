@@ -3,6 +3,7 @@ Version: ?.?.?
 Date: ????-??-??
   Locale:
     - Update translation for machine-upgrades, version = 0.69.6
+    - Update translation for configurable-quality-buttons, version = 1.0.0
 ---------------------------------------------------------------------------------------------------
 Version: 0.2506.2120
 Date: 2025-06-21
