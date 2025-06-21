@@ -140,5 +140,6 @@ return {
   ["quality-upgrade-planner"] = "2.6.1",
   ["infinite-quality-tiers-plus"] = "1.0.8",
   ["unlimited-quality"] = "0.0.6",
-  ["machine-upgrades"] = "0.69.6"
+  ["machine-upgrades"] = "0.69.6",
+  ["configurable-quality-buttons"] = "1.0.0"
 }
