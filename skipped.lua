@@ -230,5 +230,15 @@ return {
   ["version"] = "2.1.5",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["SourceSinkPushPull"] = {
+  ["version"] = "0.4.9",
+  ["coverage"] = 0.8815165876777251,
+  ["reason"] = "builtin"
+},
+  ["electric-trains"] = {
+  ["version"] = "0.4.0",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }
