@@ -133,5 +133,6 @@ return {
   ["motherbase"] = "1.0.3",
   ["holographic_signs"] = "2.0.8",
   ["LtnManager"] = "0.5.0",
-  ["LogisticTrainNetwork"] = "2.3.3"
+  ["LogisticTrainNetwork"] = "2.3.3",
+  ["LTN_Combinator_Modernized"] = "2.2.5"
 }
