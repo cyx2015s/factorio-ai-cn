@@ -134,5 +134,6 @@ return {
   ["holographic_signs"] = "2.0.8",
   ["LtnManager"] = "0.5.0",
   ["LogisticTrainNetwork"] = "2.3.3",
-  ["LTN_Combinator_Modernized"] = "2.2.5"
+  ["LTN_Combinator_Modernized"] = "2.2.5",
+  ["train-log"] = "1.3.1"
 }
