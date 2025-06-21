@@ -131,5 +131,7 @@ return {
   ["discovery_tree"] = "1.0.9",
   ["far-reach"] = "2.0.0",
   ["motherbase"] = "1.0.3",
-  ["holographic_signs"] = "2.0.8"
+  ["holographic_signs"] = "2.0.8",
+  ["LtnManager"] = "0.5.0",
+  ["LogisticTrainNetwork"] = "2.3.3"
 }
