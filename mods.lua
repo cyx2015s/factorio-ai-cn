@@ -136,5 +136,6 @@ return {
   ["LogisticTrainNetwork"] = "2.3.3",
   ["LTN_Combinator_Modernized"] = "2.2.5",
   ["train-log"] = "1.3.1",
-  ["QualityEffectsFixed"] = "1.1.0"
+  ["QualityEffectsFixed"] = "1.1.0",
+  ["quality-upgrade-planner"] = "2.6.1"
 }
