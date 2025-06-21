@@ -240,5 +240,15 @@ return {
   ["version"] = "0.4.0",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["quality-wagons"] = {
+  ["version"] = "1.0.3",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
+},
+  ["infinite-quality-tiers"] = {
+  ["version"] = "1.0.5",
+  ["coverage"] = 0.9921259842519685,
+  ["reason"] = "builtin"
 }
 }
