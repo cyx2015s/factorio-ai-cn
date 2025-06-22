@@ -142,5 +142,6 @@ return {
   ["unlimited-quality"] = "0.0.6",
   ["machine-upgrades"] = "0.69.6",
   ["configurable-quality-buttons"] = "1.0.0",
-  ["unreal-mythical-quality"] = "1.0.0"
+  ["unreal-mythical-quality"] = "1.0.0",
+  ["Gearery"] = "1.0.2"
 }
