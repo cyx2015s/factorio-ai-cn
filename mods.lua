@@ -149,5 +149,6 @@ return {
   ["item-inserter"] = "1.0.10",
   ["SteampunkLamp"] = "1.0.0",
   ["alternative-beacons-ex"] = "1.0.12",
-  ["compaktcircuit"] = "2.0.20"
+  ["compaktcircuit"] = "2.0.20",
+  ["hextorio"] = "1.0.3"
 }
