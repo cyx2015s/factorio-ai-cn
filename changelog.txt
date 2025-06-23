@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 0.2506.2318
+Date: 2025-06-23
   Locale:
     - Update translation for machine-upgrades, version = 0.69.6
     - Update translation for configurable-quality-buttons, version = 1.0.0
@@ -12,7 +12,7 @@ Date: ????-??-??
     - Update translation for SteampunkLamp, version = 1.0.0
     - Update translation for alternative-beacons-ex, version = 1.0.12
     - Update translation for compaktcircuit, version = 2.0.20
-    - Update translation for hextorio, version = 1.0.3
+    - Update translation for hextorio, version = 1.0.3 (manual)
 ---------------------------------------------------------------------------------------------------
 Version: 0.2506.2120
 Date: 2025-06-21
