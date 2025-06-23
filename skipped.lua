@@ -250,5 +250,10 @@ return {
   ["version"] = "1.0.5",
   ["coverage"] = 0.9921259842519685,
   ["reason"] = "builtin"
+},
+  ["ore-ganizer"] = {
+  ["version"] = "0.5.2",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }

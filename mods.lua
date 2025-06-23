@@ -144,5 +144,6 @@ return {
   ["configurable-quality-buttons"] = "1.0.0",
   ["unreal-mythical-quality"] = "1.0.0",
   ["Gearery"] = "1.0.2",
-  ["zzz-nonstandard-beacons"] = "1.2.0"
+  ["zzz-nonstandard-beacons"] = "1.2.0",
+  ["rocket-log"] = "2.0.0"
 }
