@@ -147,5 +147,6 @@ return {
   ["zzz-nonstandard-beacons"] = "1.2.0",
   ["rocket-log"] = "2.0.0",
   ["item-inserter"] = "1.0.10",
-  ["SteampunkLamp"] = "1.0.0"
+  ["SteampunkLamp"] = "1.0.0",
+  ["alternative-beacons-ex"] = "1.0.12"
 }
