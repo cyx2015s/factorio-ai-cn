@@ -9,6 +9,7 @@ Date: ????-??-??
     - Update translation for zzz-nonstandard-beacons, version = 1.2.0
     - Update translation for rocket-log, version = 2.0.0
     - Update translation for item-inserter, version = 1.0.10
+    - Update translation for SteampunkLamp, version = 1.0.0
 ---------------------------------------------------------------------------------------------------
 Version: 0.2506.2120
 Date: 2025-06-21
