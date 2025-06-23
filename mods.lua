@@ -146,5 +146,6 @@ return {
   ["Gearery"] = "1.0.2",
   ["zzz-nonstandard-beacons"] = "1.2.0",
   ["rocket-log"] = "2.0.0",
-  ["item-inserter"] = "1.0.10"
+  ["item-inserter"] = "1.0.10",
+  ["SteampunkLamp"] = "1.0.0"
 }
