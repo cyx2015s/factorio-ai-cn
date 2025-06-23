@@ -12,6 +12,7 @@ Date: ????-??-??
     - Update translation for SteampunkLamp, version = 1.0.0
     - Update translation for alternative-beacons-ex, version = 1.0.12
     - Update translation for compaktcircuit, version = 2.0.20
+    - Update translation for hextorio, version = 1.0.3
 ---------------------------------------------------------------------------------------------------
 Version: 0.2506.2120
 Date: 2025-06-21
