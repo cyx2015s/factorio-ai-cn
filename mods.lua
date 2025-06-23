@@ -148,5 +148,6 @@ return {
   ["rocket-log"] = "2.0.0",
   ["item-inserter"] = "1.0.10",
   ["SteampunkLamp"] = "1.0.0",
-  ["alternative-beacons-ex"] = "1.0.12"
+  ["alternative-beacons-ex"] = "1.0.12",
+  ["compaktcircuit"] = "2.0.20"
 }
