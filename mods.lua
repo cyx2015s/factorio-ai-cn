@@ -151,5 +151,6 @@ return {
   ["alternative-beacons-ex"] = "1.0.12",
   ["compaktcircuit"] = "2.0.20",
   ["hextorio"] = "1.0.3",
-  ["CircuitHUD-V2"] = "2.5.1"
+  ["CircuitHUD-V2"] = "2.5.1",
+  ["Subsurface"] = "1.1.6"
 }
