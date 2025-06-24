@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 0.2506.2415
+Date: 2025-06-24
   Locale:
     - Update translation for cybersyn, version = 2.0.28
     - Update translation for CircuitHUD-V2, version = 2.5.1
