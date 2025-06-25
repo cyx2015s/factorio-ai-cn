@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 0.2506.2523
+Date: 2025-06-25
   Bugfixes:
     - diable K2SO and lignumis translation by default.
   Locale:
