@@ -153,5 +153,6 @@ return {
   ["hextorio"] = "1.0.8",
   ["CircuitHUD-V2"] = "2.5.1",
   ["Subsurface"] = "1.1.6",
-  ["electric-tiles"] = "1.2.1"
+  ["electric-tiles"] = "1.2.1",
+  ["Water-Friendly-Walls"] = "2.0.6"
 }
