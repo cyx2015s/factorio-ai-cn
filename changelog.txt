@@ -6,6 +6,7 @@ Date: ????-??-??
   Locale:
     - updated translation for hextorio, version = 1.0.8 (manual)
     - Update translation for electric-tiles, version = 1.2.1
+    - Update translation for Water-Friendly-Walls, version = 2.0.6
 ---------------------------------------------------------------------------------------------------
 Version: 0.2506.2415
 Date: 2025-06-24
