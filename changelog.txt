@@ -3,6 +3,8 @@ Version: ?.?.?
 Date: ????-??-??
   Bugfixes:
     - diable K2SO and lignumis translation by default.
+  Locale:
+    - updated translation for hextorio, version = 1.0.8 (manual)
 ---------------------------------------------------------------------------------------------------
 Version: 0.2506.2415
 Date: 2025-06-24
