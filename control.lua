@@ -103,7 +103,7 @@ script.on_event(
             end
             log_str = log_str .. ("\n本翻译对模组名的处理为，若原文提供了对应键值，则认为原作者意图其他翻译人翻译，否则保留原文。")
             log_str = log_str .. ("\n本模组提供的翻译内容全部为 AI 翻译，请仔细辨别使用。")
-            log_str = log_str .. ("\n前往 https://mods.factorio.com/mod/factorio-ai-cn 查看更多信息。")
+            log_str = log_str .. ("\n前往 https://mods.factorio.com/mod/factorio-ai-cn 查看更多信息。作者：切向量/tanvec")
             local frame = player.gui.screen.add {
                 type = "frame",
                 name = "locale_stats_frame",
