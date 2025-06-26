@@ -3,6 +3,7 @@ Version: ?.?.?
 Date: ????-??-??
   Locale:
     - Update translation for xp-for-buildings, version = 0.0.41
+    - Update translation for Testbenchcontrols, version = 2.1.22
 ---------------------------------------------------------------------------------------------------
 Version: 0.2506.2523
 Date: 2025-06-25
