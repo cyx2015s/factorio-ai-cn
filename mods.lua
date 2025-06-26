@@ -154,5 +154,6 @@ return {
   ["CircuitHUD-V2"] = "2.5.1",
   ["Subsurface"] = "1.1.6",
   ["electric-tiles"] = "1.2.1",
-  ["Water-Friendly-Walls"] = "2.0.6"
+  ["Water-Friendly-Walls"] = "2.0.6",
+  ["xp-for-buildings"] = "0.0.41"
 }
