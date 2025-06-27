@@ -2,6 +2,7 @@
 Version: ?.?.?
 Date: ????-??-??
   Locale:
+    - 部分恢复K2SO和lignumis的翻译。
     - Update translation for VoidBlock, version = 1.1.11
     - Update translation for iper-belt, version = 0.0.15
     - Update translation for QualityGreenhouse, version = 0.1.2
