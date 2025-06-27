@@ -4,6 +4,7 @@ Date: ????-??-??
   Locale:
     - Update translation for VoidBlock, version = 1.1.11
     - Update translation for iper-belt, version = 0.0.15
+    - Update translation for QualityGreenhouse, version = 0.1.2
 ---------------------------------------------------------------------------------------------------
 Version: 0.2506.2621
 Date: 2025-06-26
