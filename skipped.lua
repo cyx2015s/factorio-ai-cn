@@ -255,5 +255,10 @@ return {
   ["version"] = "0.5.2",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["Foundations"] = {
+  ["version"] = "2.18.0",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }
