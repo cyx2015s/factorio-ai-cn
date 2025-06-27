@@ -158,5 +158,6 @@ return {
   ["xp-for-buildings"] = "0.0.41",
   ["Testbenchcontrols"] = "2.1.22",
   ["VoidBlock"] = "1.1.11",
-  ["iper-belt"] = "0.0.15"
+  ["iper-belt"] = "0.0.15",
+  ["QualityGreenhouse"] = "0.1.2"
 }
