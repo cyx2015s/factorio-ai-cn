@@ -161,5 +161,6 @@ return {
   ["iper-belt"] = "0.0.15",
   ["QualityGreenhouse"] = "0.1.2",
   ["btqbuslodtswfowap"] = "1.1.1",
-  ["SolarMatrix"] = "1.0.0"
+  ["SolarMatrix"] = "1.0.0",
+  ["Telogistics"] = "1.0.29"
 }
