@@ -160,5 +160,6 @@ return {
   ["VoidBlock"] = "1.1.11",
   ["iper-belt"] = "0.0.15",
   ["QualityGreenhouse"] = "0.1.2",
-  ["btqbuslodtswfowap"] = "1.1.1"
+  ["btqbuslodtswfowap"] = "1.1.1",
+  ["SolarMatrix"] = "1.0.0"
 }
