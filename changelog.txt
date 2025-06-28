@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 0.2506.2821
+Date: 2025-06-28
   Locale:
     - Update translation for SolarMatrix, version = 1.0.0
     - Update translation for Telogistics, version = 1.0.29
