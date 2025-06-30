@@ -260,5 +260,10 @@ return {
   ["version"] = "2.18.0",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["quick-adjustable-inserters"] = {
+  ["version"] = "2.0.9",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }

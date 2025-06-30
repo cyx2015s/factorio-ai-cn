@@ -165,5 +165,6 @@ return {
   ["Telogistics"] = "1.0.29",
   ["more-descriptions"] = "1.0.0",
   ["BeltThreadUpgrades"] = "1.2.3",
-  ["tinyminingdrill"] = "2.0.0"
+  ["tinyminingdrill"] = "2.0.0",
+  ["TAS_step_planner"] = "2.0.0"
 }
