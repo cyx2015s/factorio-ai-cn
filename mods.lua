@@ -163,5 +163,6 @@ return {
   ["btqbuslodtswfowap"] = "1.1.1",
   ["SolarMatrix"] = "1.0.0",
   ["Telogistics"] = "1.0.29",
-  ["more-descriptions"] = "1.0.0"
+  ["more-descriptions"] = "1.0.0",
+  ["BeltThreadUpgrades"] = "1.2.3"
 }
