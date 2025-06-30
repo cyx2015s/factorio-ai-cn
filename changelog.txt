@@ -8,6 +8,7 @@ Date: ????-??-??
     - Update translation for tinyminingdrill, version = 2.0.0
     - Update translation for TAS_step_planner, version = 2.0.0
     - Update translation for Theis_tas_helper, version = 2.0.0
+    - Update translation for blueprint-shotgun, version = 0.2.5
 ---------------------------------------------------------------------------------------------------
 Version: 0.2506.2821
 Date: 2025-06-28
