@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 0.2506.3018
+Date: 2025-06-30
   Locale:
     - Update translation for more-descriptions, version = 1.0.0
     - Update translation for BeltThreadUpgrades, version = 1.2.3
