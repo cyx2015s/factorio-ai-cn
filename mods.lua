@@ -168,5 +168,6 @@ return {
   ["tinyminingdrill"] = "2.0.0",
   ["TAS_step_planner"] = "2.0.0",
   ["Theis_tas_helper"] = "2.0.0",
-  ["blueprint-shotgun"] = "0.2.5"
+  ["blueprint-shotgun"] = "0.2.5",
+  ["factorioplus"] = "2.2.4"
 }
