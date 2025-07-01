@@ -52,12 +52,33 @@ for name, version in pairs(script.active_mods) do
     ::continue::
 end
 
+local enter_str = "【提示】欢迎使用AI汉化，点击快捷栏的DeepSeek按钮可查看汉化覆盖情况，并向作者请求新的汉化。"
 
 script.on_configuration_changed(
     function()
         for _, player in pairs(game.players) do
             if player.locale == "zh-CN" then
-                player.print("【提示】欢迎使用AI汉化，点击快捷栏按钮可查看汉化覆盖情况")
+                player.print(enter_str)
+            end
+        end
+    end
+)
+
+script.on_event(
+    defines.events.on_player_joined_game,
+    function(event)
+        local player = game.get_player(event.player_index)
+        if player and player.locale == "zh-CN" then
+            player.print(enter_str)
+        end
+    end
+)
+
+script.on_init(
+    function()
+        for _, player in pairs(game.players) do
+            if player.locale == "zh-CN" then
+                player.print(enter_str)
             end
         end
     end
@@ -104,6 +125,7 @@ script.on_event(
             log_str = log_str .. ("\n本翻译对模组名的处理为，若原文提供了对应键值，则认为原作者意图其他翻译人翻译，否则保留原文。")
             log_str = log_str .. ("\n本模组提供的翻译内容全部为 AI 翻译，请仔细辨别使用。")
             log_str = log_str .. ("\n前往 https://mods.factorio.com/mod/factorio-ai-cn 查看更多信息。作者：切向量/tanvec")
+            log_str = log_str .. ("\n\n可以复制以下文本框中的内容并提交给我，以便我增加翻译。")
             local frame = player.gui.screen.add {
                 type = "frame",
                 name = "locale_stats_frame",
