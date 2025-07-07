@@ -60,6 +60,9 @@ script.on_configuration_changed(
             if player.locale == "zh-CN" then
                 player.print(enter_str)
             end
+            if player.name == "tanvec" then
+                player.tag = "切向量"
+            end
         end
     end
 )
