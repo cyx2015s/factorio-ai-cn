@@ -57,11 +57,10 @@ local enter_str = "【提示】欢迎使用AI汉化，点击快捷栏的DeepSeek
 script.on_configuration_changed(
     function()
         for _, player in pairs(game.players) do
-            if player.locale == "zh-CN" then
-                player.print(enter_str)
-            end
             if player.name == "tanvec" then
                 player.tag = "切向量"
+            elseif player.locale == "zh-CN" then
+                player.print(enter_str)
             end
         end
     end
@@ -71,11 +70,10 @@ script.on_event(
     defines.events.on_player_joined_game,
     function(event)
         local player = game.get_player(event.player_index)
-        if player and player.locale == "zh-CN" then
-            player.print(enter_str)
-        end
         if player and player.name == "tanvec" then
             player.tag = "切向量"
+        elseif player and player.locale == "zh-CN" then
+            player.print(enter_str)
         end
     end
 )
@@ -83,7 +81,7 @@ script.on_event(
 script.on_init(
     function()
         for _, player in pairs(game.players) do
-            if player.locale == "zh-CN" then
+            if player.locale == "zh-CN" and player.name ~= "tanvec" then
                 player.print(enter_str)
             end
         end
