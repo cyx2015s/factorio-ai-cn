@@ -74,6 +74,9 @@ script.on_event(
         if player and player.locale == "zh-CN" then
             player.print(enter_str)
         end
+        if player and player.name == "tanvec" then
+            player.tag = "切向量"
+        end
     end
 )
 
