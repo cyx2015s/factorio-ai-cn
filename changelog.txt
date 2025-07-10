@@ -29,6 +29,7 @@ Date: ????-??-??
     - Update translation for ice_boiling, version = 1.0.1
     - Update translation for lane-balancers, version = 1.1.7
     - Update translation for Loader-Furnace, version = 6.2.3
+    - Update translation for OmegaDrill, version = 0.3.6
 ---------------------------------------------------------------------------------------------------
 Version: 0.2507.714
 Date: 2025-07-07
