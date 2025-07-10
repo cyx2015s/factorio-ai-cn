@@ -175,5 +175,6 @@
   "DoubleFurnace": "0.6.2",
   "filter-copy-expansion": "1.6.2",
   "gas-generator": "0.2.0",
-  "k2-stacking-loader": "1.1.1"
+  "k2-stacking-loader": "1.1.1",
+  "long-distance-pipe": "0.2.0"
 }

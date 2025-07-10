@@ -285,5 +285,10 @@ return {
   ["version"] = "1.0.0",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["Li-Quarry"] = {
+  ["version"] = "1.0.1",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }
