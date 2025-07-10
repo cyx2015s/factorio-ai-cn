@@ -183,5 +183,6 @@ return {
   ["miniloader-redux"] = "0.7.1",
   ["Simplified_Chinese_localization_library"] = "0.1.3",
   ["stirling-generator"] = "0.1.0",
-  ["thermoelectric-generator"] = "1.0.0"
+  ["thermoelectric-generator"] = "1.0.0",
+  ["easy-god-module"] = "0.0.8"
 }

@@ -290,5 +290,10 @@ return {
   ["version"] = "1.0.1",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["Warehousing"] = {
+  ["version"] = "1.0.3",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }
