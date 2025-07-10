@@ -178,5 +178,6 @@ return {
   ["filter-copy-expansion"] = "1.6.2",
   ["gas-generator"] = "0.2.0",
   ["k2-stacking-loader"] = "1.1.1",
-  ["long-distance-pipe"] = "0.2.0"
+  ["long-distance-pipe"] = "0.2.0",
+  ["MegaFurnace_Vanilla_OnlyMk1"] = "1.0.1"
 }
