@@ -19,6 +19,7 @@ Date: ????-??-??
     - Update translation for heat-powered-machine-variants, version = 0.1.4
     - Update translation for WarehousingRoof, version = 1.2.1
     - Update translation for Adjustable_Plates_Unlimited, version = 1.0.1
+    - Update translation for advanced-furnace, version = 0.0.3
 ---------------------------------------------------------------------------------------------------
 Version: 0.2507.714
 Date: 2025-07-07
