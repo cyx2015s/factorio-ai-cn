@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 0.2507.1018
+Date: 2025-07-10
   Locale:
     - Update translation for unlimited-ammo, version = 0.2.8
     - Update translation for belt-reverser-space-age, version = 2.0.1
