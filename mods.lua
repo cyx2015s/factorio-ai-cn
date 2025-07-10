@@ -191,5 +191,6 @@ return {
   ["advanced-furnace"] = "0.0.3",
   ["AncientDrill"] = "1.4.2",
   ["CompactRoboports"] = "1.0.0",
-  ["easy-wind-turbine"] = "2.0.12"
+  ["easy-wind-turbine"] = "2.0.12",
+  ["god-module"] = "0.2.16"
 }
