@@ -203,5 +203,6 @@ return {
   ["StoneWaterWell-ActuallyUpdated"] = "2.0.10",
   ["heat-furnace"] = "0.2.2",
   ["ChangeInserterDropLane"] = "1.1.0",
-  ["kry-space-platform-chests"] = "1.0.13"
+  ["kry-space-platform-chests"] = "1.0.13",
+  ["one-more-tier"] = "1.2.1"
 }
