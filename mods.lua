@@ -190,5 +190,6 @@ return {
   ["Adjustable_Plates_Unlimited"] = "1.0.1",
   ["advanced-furnace"] = "0.0.3",
   ["AncientDrill"] = "1.4.2",
-  ["CompactRoboports"] = "1.0.0"
+  ["CompactRoboports"] = "1.0.0",
+  ["easy-wind-turbine"] = "2.0.12"
 }
