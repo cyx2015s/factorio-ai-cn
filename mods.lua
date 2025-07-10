@@ -195,5 +195,6 @@ return {
   ["god-module"] = "0.2.16",
   ["Gravity-Assembler"] = "0.1.3",
   ["heat-processing"] = "0.3.6",
-  ["ice_boiling"] = "1.0.1"
+  ["ice_boiling"] = "1.0.1",
+  ["lane-balancers"] = "1.1.7"
 }
