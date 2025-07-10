@@ -189,5 +189,6 @@ return {
   ["WarehousingRoof"] = "1.2.1",
   ["Adjustable_Plates_Unlimited"] = "1.0.1",
   ["advanced-furnace"] = "0.0.3",
-  ["AncientDrill"] = "1.4.2"
+  ["AncientDrill"] = "1.4.2",
+  ["CompactRoboports"] = "1.0.0"
 }
