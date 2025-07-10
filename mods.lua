@@ -199,5 +199,6 @@ return {
   ["lane-balancers"] = "1.1.7",
   ["Loader-Furnace"] = "6.2.3",
   ["OmegaDrill"] = "0.3.6",
-  ["SchallBeltConfiguration"] = "2.0.3"
+  ["SchallBeltConfiguration"] = "2.0.3",
+  ["StoneWaterWell-ActuallyUpdated"] = "2.0.10"
 }
