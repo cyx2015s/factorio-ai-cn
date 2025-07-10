@@ -185,5 +185,6 @@ return {
   ["stirling-generator"] = "0.1.0",
   ["thermoelectric-generator"] = "1.0.0",
   ["easy-god-module"] = "0.0.8",
-  ["heat-powered-machine-variants"] = "0.1.4"
+  ["heat-powered-machine-variants"] = "0.1.4",
+  ["WarehousingRoof"] = "1.2.1"
 }
