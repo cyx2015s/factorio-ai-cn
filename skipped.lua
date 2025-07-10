@@ -300,5 +300,10 @@ return {
   ["version"] = "0.2.2",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["factorissimo-2-notnotmelon"] = {
+  ["version"] = "3.8.26",
+  ["coverage"] = 0.9044117647058824,
+  ["reason"] = "builtin"
 }
 }

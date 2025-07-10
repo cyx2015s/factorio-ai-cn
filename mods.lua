@@ -200,5 +200,6 @@ return {
   ["Loader-Furnace"] = "6.2.3",
   ["OmegaDrill"] = "0.3.6",
   ["SchallBeltConfiguration"] = "2.0.3",
-  ["StoneWaterWell-ActuallyUpdated"] = "2.0.10"
+  ["StoneWaterWell-ActuallyUpdated"] = "2.0.10",
+  ["heat-furnace"] = "0.2.2"
 }
