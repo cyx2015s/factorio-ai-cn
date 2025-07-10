@@ -172,5 +172,6 @@ return {
   ["factorioplus"] = "2.2.4",
   ["aquilo-s"] = "1.3.1",
   ["unlimited-ammo"] = "0.2.8",
-  ["belt-reverser-space-age"] = "2.0.1"
+  ["belt-reverser-space-age"] = "2.0.1",
+  ["big-heat-furnace"] = "0.0.4"
 }
