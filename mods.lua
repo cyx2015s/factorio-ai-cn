@@ -180,5 +180,6 @@ return {
   ["k2-stacking-loader"] = "1.1.1",
   ["long-distance-pipe"] = "0.2.0",
   ["MegaFurnace_Vanilla_OnlyMk1"] = "1.0.1",
-  ["miniloader-redux"] = "0.7.1"
+  ["miniloader-redux"] = "0.7.1",
+  ["Simplified_Chinese_localization_library"] = "0.1.3"
 }
