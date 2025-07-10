@@ -193,5 +193,6 @@ return {
   ["CompactRoboports"] = "1.0.0",
   ["easy-wind-turbine"] = "2.0.12",
   ["god-module"] = "0.2.16",
-  ["Gravity-Assembler"] = "0.1.3"
+  ["Gravity-Assembler"] = "0.1.3",
+  ["heat-processing"] = "0.3.6"
 }
