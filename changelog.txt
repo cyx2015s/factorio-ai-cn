@@ -21,6 +21,7 @@ Date: ????-??-??
     - Update translation for Adjustable_Plates_Unlimited, version = 1.0.1
     - Update translation for advanced-furnace, version = 0.0.3
     - Update translation for AncientDrill, version = 1.4.2
+    - Update translation for CompactRoboports, version = 1.0.0
 ---------------------------------------------------------------------------------------------------
 Version: 0.2507.714
 Date: 2025-07-07
