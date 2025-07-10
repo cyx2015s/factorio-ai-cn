@@ -11,6 +11,7 @@ Date: ????-??-??
     - Update translation for k2-stacking-loader, version = 1.1.1
     - Update translation for long-distance-pipe, version = 0.2.0
     - Update translation for MegaFurnace_Vanilla_OnlyMk1, version = 1.0.1
+    - Update translation for miniloader-redux, version = 0.7.1
 ---------------------------------------------------------------------------------------------------
 Version: 0.2507.714
 Date: 2025-07-07
