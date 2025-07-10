@@ -175,5 +175,6 @@ return {
   ["belt-reverser-space-age"] = "2.0.1",
   ["big-heat-furnace"] = "0.0.4",
   ["DoubleFurnace"] = "0.6.2",
-  ["filter-copy-expansion"] = "1.6.2"
+  ["filter-copy-expansion"] = "1.6.2",
+  ["gas-generator"] = "0.2.0"
 }
