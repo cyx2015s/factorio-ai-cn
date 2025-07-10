@@ -188,5 +188,6 @@ return {
   ["heat-powered-machine-variants"] = "0.1.4",
   ["WarehousingRoof"] = "1.2.1",
   ["Adjustable_Plates_Unlimited"] = "1.0.1",
-  ["advanced-furnace"] = "0.0.3"
+  ["advanced-furnace"] = "0.0.3",
+  ["AncientDrill"] = "1.4.2"
 }
