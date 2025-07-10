@@ -34,6 +34,7 @@ Date: ????-??-??
     - Update translation for StoneWaterWell-ActuallyUpdated, version = 2.0.10
     - Update translation for heat-furnace, version = 0.2.2
     - Update translation for ChangeInserterDropLane, version = 1.1.0
+    - Update translation for kry-space-platform-chests, version = 1.0.13
 ---------------------------------------------------------------------------------------------------
 Version: 0.2507.714
 Date: 2025-07-07
