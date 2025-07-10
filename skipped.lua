@@ -295,5 +295,10 @@ return {
   ["version"] = "1.0.3",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["pumping_station"] = {
+  ["version"] = "0.2.2",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }
