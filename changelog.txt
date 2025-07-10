@@ -9,6 +9,7 @@ Date: ????-??-??
     - Update translation for filter-copy-expansion, version = 1.6.2
     - Update translation for gas-generator, version = 0.2.0
     - Update translation for k2-stacking-loader, version = 1.1.1
+    - Update translation for long-distance-pipe, version = 0.2.0
 ---------------------------------------------------------------------------------------------------
 Version: 0.2507.714
 Date: 2025-07-07
