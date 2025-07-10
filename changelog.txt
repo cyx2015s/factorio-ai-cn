@@ -35,6 +35,7 @@ Date: ????-??-??
     - Update translation for heat-furnace, version = 0.2.2
     - Update translation for ChangeInserterDropLane, version = 1.1.0
     - Update translation for kry-space-platform-chests, version = 1.0.13
+    - Update translation for one-more-tier, version = 1.2.1
 ---------------------------------------------------------------------------------------------------
 Version: 0.2507.714
 Date: 2025-07-07
