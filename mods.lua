@@ -176,5 +176,6 @@ return {
   ["big-heat-furnace"] = "0.0.4",
   ["DoubleFurnace"] = "0.6.2",
   ["filter-copy-expansion"] = "1.6.2",
-  ["gas-generator"] = "0.2.0"
+  ["gas-generator"] = "0.2.0",
+  ["k2-stacking-loader"] = "1.1.1"
 }
