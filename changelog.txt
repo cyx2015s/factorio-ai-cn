@@ -31,6 +31,7 @@ Date: ????-??-??
     - Update translation for Loader-Furnace, version = 6.2.3
     - Update translation for OmegaDrill, version = 0.3.6
     - Update translation for SchallBeltConfiguration, version = 2.0.3
+    - Update translation for StoneWaterWell-ActuallyUpdated, version = 2.0.10
 ---------------------------------------------------------------------------------------------------
 Version: 0.2507.714
 Date: 2025-07-07
