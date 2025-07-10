@@ -275,5 +275,10 @@ return {
   ["version"] = "1.0.0",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["Wind-Turbines-relaunched"] = {
+  ["version"] = "2.0.9",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }
