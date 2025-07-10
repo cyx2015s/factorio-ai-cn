@@ -202,5 +202,6 @@ return {
   ["SchallBeltConfiguration"] = "2.0.3",
   ["StoneWaterWell-ActuallyUpdated"] = "2.0.10",
   ["heat-furnace"] = "0.2.2",
-  ["ChangeInserterDropLane"] = "1.1.0"
+  ["ChangeInserterDropLane"] = "1.1.0",
+  ["kry-space-platform-chests"] = "1.0.13"
 }
