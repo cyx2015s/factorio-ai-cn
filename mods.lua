@@ -205,5 +205,6 @@ return {
   ["ChangeInserterDropLane"] = "1.1.0",
   ["kry-space-platform-chests"] = "1.0.13",
   ["one-more-tier"] = "1.2.1",
-  ["StoneWaterWell-NoRestrict"] = "2.0.2"
+  ["StoneWaterWell-NoRestrict"] = "2.0.2",
+  ["bobinserters"] = "2.0.1"
 }
