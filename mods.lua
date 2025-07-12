@@ -157,7 +157,7 @@ return {
   ["Water-Friendly-Walls"] = "2.0.6",
   ["xp-for-buildings"] = "0.0.41",
   ["Testbenchcontrols"] = "2.1.22",
-  ["VoidBlock"] = "1.1.11",
+  ["VoidBlock"] = "1.1.14",
   ["iper-belt"] = "0.0.15",
   ["QualityGreenhouse"] = "0.1.2",
   ["btqbuslodtswfowap"] = "1.1.1",
