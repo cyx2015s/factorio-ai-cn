@@ -5,6 +5,7 @@ Date: ????-??-??
     - Update translation for VoidBlock, version = 1.1.14
     - Update translation for bobinserters, version = 2.0.1
     - Update translation for freezer, version = 1.1.2
+    - Update translation for Voidcraft, version = 2.3.0
 ---------------------------------------------------------------------------------------------------
 Version: 0.2507.1018
 Date: 2025-07-10
