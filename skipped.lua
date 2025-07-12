@@ -310,5 +310,10 @@ return {
   ["version"] = "0.2.2",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["LinkedChestAndPipe"] = {
+  ["version"] = "1.2.54",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }
