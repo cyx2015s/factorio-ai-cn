@@ -207,5 +207,6 @@ return {
   ["one-more-tier"] = "1.2.1",
   ["StoneWaterWell-NoRestrict"] = "2.0.2",
   ["bobinserters"] = "2.0.1",
-  ["freezer"] = "1.1.2"
+  ["freezer"] = "1.1.2",
+  ["Arachnids_enemy"] = "1.2.0"
 }
