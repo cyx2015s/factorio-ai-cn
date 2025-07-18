@@ -340,5 +340,15 @@ return {
   ["version"] = "2.0.2",
   ["coverage"] = 1.0,
   ["reason"] = "builtin"
+},
+  ["shield-projector"] = {
+  ["version"] = "0.2.2",
+  ["coverage"] = 0.9565217391304348,
+  ["reason"] = "builtin"
+},
+  ["cargo-ships"] = {
+  ["version"] = "1.0.19",
+  ["coverage"] = 0.8651685393258427,
+  ["reason"] = "builtin"
 }
 }
