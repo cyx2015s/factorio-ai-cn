@@ -212,5 +212,6 @@ return {
   ["AutoDeconstruct"] = "1.0.7",
   ["ch-concentrated-solar"] = "0.5.0",
   ["Inventory Sensor"] = "2.0.6",
-  ["mferrari_lib"] = "0.5.2"
+  ["mferrari_lib"] = "0.5.2",
+  ["rec-blue-plus"] = "1.4.7"
 }
