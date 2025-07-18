@@ -320,5 +320,15 @@ return {
   ["version"] = "0.0.0",
   ["coverage"] = 0.0,
   ["reason"] = "graphic"
+},
+  ["Fluid-level-indicator"] = {
+  ["version"] = "0.9.9",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
+},
+  ["grappling-gun"] = {
+  ["version"] = "0.4.1",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }
