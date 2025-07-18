@@ -4,6 +4,7 @@ Date: ????-??-??
   Locale:
     - Update translation for Arachnids_enemy, version = 1.2.0
     - Update translation for AutoDeconstruct, version = 1.0.7
+    - Update translation for ch-concentrated-solar, version = 0.5.0
 ---------------------------------------------------------------------------------------------------
 Version: 0.2507.1214
 Date: 2025-07-12
