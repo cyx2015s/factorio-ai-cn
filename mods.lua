@@ -211,5 +211,6 @@ return {
   ["Arachnids_enemy"] = "1.2.0",
   ["AutoDeconstruct"] = "1.0.7",
   ["ch-concentrated-solar"] = "0.5.0",
-  ["Inventory Sensor"] = "2.0.6"
+  ["Inventory Sensor"] = "2.0.6",
+  ["mferrari_lib"] = "0.5.2"
 }

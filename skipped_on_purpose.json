@@ -328,5 +328,10 @@
     "version": "0.4.1",
     "coverage": 1.0,
     "reason": "builtin"
+  },
+  "jetpack": {
+    "version": "0.4.12",
+    "coverage": 1.0,
+    "reason": "builtin"
   }
 }
