@@ -222,5 +222,6 @@ return {
   ["Nexus"] = "0.9.8",
   ["planet_erimos_prime"] = "0.1.5",
   ["terrapalus"] = "0.1.4",
-  ["halo-ring"] = "1.0.0"
+  ["halo-ring"] = "1.0.0",
+  ["astroponics"] = "1.7.0"
 }
