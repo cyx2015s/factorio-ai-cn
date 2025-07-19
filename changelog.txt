@@ -11,6 +11,7 @@ Date: ????-??-??
     - Update translation for RPGsystem, version = 2.0.6
     - Update translation for Lighted-Poles-Plus, version = 2.0.4
     - Update translation for Nanobots2, version = 3.3.2
+    - Update translation for Accumulator-V2, version = 1.0.6
 ---------------------------------------------------------------------------------------------------
 Version: 0.2507.1214
 Date: 2025-07-12
