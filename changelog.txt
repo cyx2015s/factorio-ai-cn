@@ -21,6 +21,7 @@ Date: ????-??-??
     - Update translation for configurable-valves, version = 0.2.1
     - Update translation for factorio-crash-site, version = 2.0.4
     - Update translation for cybersyn-combinator, version = 2.7.3
+    - Update translation for fulgora-extended, version = 1.1.6
 ---------------------------------------------------------------------------------------------------
 Version: 0.2507.1214
 Date: 2025-07-12
