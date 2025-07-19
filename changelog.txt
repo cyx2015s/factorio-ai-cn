@@ -16,6 +16,7 @@ Date: ????-??-??
     - Update translation for Nexus, version = 0.9.8
     - Update translation for planet_erimos_prime, version = 0.1.5
     - Update translation for terrapalus, version = 0.1.4
+    - Update translation for halo-ring, version = 1.0.0
 ---------------------------------------------------------------------------------------------------
 Version: 0.2507.1214
 Date: 2025-07-12
