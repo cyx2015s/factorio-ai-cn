@@ -217,5 +217,6 @@ return {
   ["RPGsystem"] = "2.0.6",
   ["Lighted-Poles-Plus"] = "2.0.4",
   ["Nanobots2"] = "3.3.2",
-  ["Accumulator-V2"] = "1.0.6"
+  ["Accumulator-V2"] = "1.0.6",
+  ["Configurable-Armour-Suits"] = "1.5.10"
 }
