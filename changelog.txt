@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 0.2507.1908
+Date: 2025-07-19
   Locale:
     - Update translation for Arachnids_enemy, version = 1.2.0
     - Update translation for AutoDeconstruct, version = 1.0.7
