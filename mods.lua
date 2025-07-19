@@ -224,5 +224,6 @@ return {
   ["terrapalus"] = "0.1.4",
   ["halo-ring"] = "1.0.0",
   ["astroponics"] = "1.7.0",
-  ["configurable-valves"] = "0.2.1"
+  ["configurable-valves"] = "0.2.1",
+  ["factorio-crash-site"] = "2.0.4"
 }
