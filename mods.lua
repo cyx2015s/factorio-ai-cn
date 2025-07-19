@@ -226,5 +226,6 @@ return {
   ["astroponics"] = "1.7.0",
   ["configurable-valves"] = "0.2.1",
   ["factorio-crash-site"] = "2.0.4",
-  ["cybersyn-combinator"] = "2.7.3"
+  ["cybersyn-combinator"] = "2.7.3",
+  ["fulgora-extended"] = "1.1.6"
 }

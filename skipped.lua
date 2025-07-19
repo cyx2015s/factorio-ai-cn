@@ -360,5 +360,10 @@ return {
   ["version"] = "1.4.2",
   ["coverage"] = 0.8181818181818182,
   ["reason"] = "builtin"
+},
+  ["FactorySearch"] = {
+  ["version"] = "1.14.0",
+  ["coverage"] = 0.8769230769230769,
+  ["reason"] = "builtin"
 }
 }
