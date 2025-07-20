@@ -365,5 +365,10 @@ return {
   ["version"] = "1.14.0",
   ["coverage"] = 0.8769230769230769,
   ["reason"] = "builtin"
+},
+  ["oarc-mod"] = {
+  ["version"] = "2.1.24",
+  ["coverage"] = 0.975,
+  ["reason"] = "builtin"
 }
 }
