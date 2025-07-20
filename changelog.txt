@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 0.2507.2008
+Date: 2025-07-20
   Locale:
     - Update translation for brave-new-assembling-machines, version = 2.0.9
     - Update translation for brave-new-oarc, version = 4.3.16
