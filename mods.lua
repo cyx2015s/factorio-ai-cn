@@ -236,5 +236,6 @@ return {
   ["zeus-wrath"] = "1.0.5",
   ["rp_steam_roboports"] = "2.0.1",
   ["atan-ash"] = "2.2.0",
-  ["Explosive_biters"] = "2.3.1"
+  ["Explosive_biters"] = "2.3.1",
+  ["extinguisher"] = "2.0.0"
 }
