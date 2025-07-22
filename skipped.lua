@@ -370,5 +370,10 @@ return {
   ["version"] = "2.1.24",
   ["coverage"] = 0.975,
   ["reason"] = "builtin"
+},
+  ["Toxic_biters"] = {
+  ["version"] = "2.0.4",
+  ["coverage"] = 0.9090909090909091,
+  ["reason"] = "builtin"
 }
 }
