@@ -237,5 +237,6 @@ return {
   ["rp_steam_roboports"] = "2.0.1",
   ["atan-ash"] = "2.2.0",
   ["Explosive_biters"] = "2.3.1",
-  ["extinguisher"] = "2.0.0"
+  ["extinguisher"] = "2.0.0",
+  ["Flammable_Oils_QUICKFIX"] = "0.2.22"
 }
