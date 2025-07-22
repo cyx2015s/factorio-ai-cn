@@ -234,5 +234,6 @@ return {
   ["rp_art_util"] = "2.0.0",
   ["rp_steam_intermediates"] = "0.0.4",
   ["zeus-wrath"] = "1.0.5",
-  ["rp_steam_roboports"] = "2.0.1"
+  ["rp_steam_roboports"] = "2.0.1",
+  ["atan-ash"] = "2.2.0"
 }
