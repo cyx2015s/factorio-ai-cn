@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: ?.?.?
-Date: ????-??-??
+Version: 0.2507.2220
+Date: 2025-07-22
   Locale:
     - Update translation for rp_art_util, version = 2.0.0
     - Update translation for rp_steam_intermediates, version = 0.0.4
