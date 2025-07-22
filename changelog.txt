@@ -6,6 +6,7 @@ Date: ????-??-??
     - Update translation for rp_steam_intermediates, version = 0.0.4
     - Update translation for zeus-wrath, version = 1.0.5
     - Update translation for rp_steam_roboports, version = 2.0.1
+    - Update translation for atan-ash, version = 2.2.0
 ---------------------------------------------------------------------------------------------------
 Version: 0.2507.2008
 Date: 2025-07-20
