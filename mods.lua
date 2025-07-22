@@ -235,5 +235,6 @@ return {
   ["rp_steam_intermediates"] = "0.0.4",
   ["zeus-wrath"] = "1.0.5",
   ["rp_steam_roboports"] = "2.0.1",
-  ["atan-ash"] = "2.2.0"
+  ["atan-ash"] = "2.2.0",
+  ["Explosive_biters"] = "2.3.1"
 }
