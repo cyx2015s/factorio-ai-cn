@@ -9,6 +9,7 @@ Date: ????-??-??
     - Update translation for atan-ash, version = 2.2.0
     - Update translation for Explosive_biters, version = 2.3.1
     - Update translation for extinguisher, version = 2.0.0
+    - Update translation for Flammable_Oils_QUICKFIX, version = 0.2.22
 ---------------------------------------------------------------------------------------------------
 Version: 0.2507.2008
 Date: 2025-07-20
