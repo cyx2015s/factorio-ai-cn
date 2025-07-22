@@ -232,5 +232,6 @@ return {
   ["brave-new-assembling-machines"] = "2.0.9",
   ["brave-new-oarc"] = "4.3.16",
   ["rp_art_util"] = "2.0.0",
-  ["rp_steam_intermediates"] = "0.0.4"
+  ["rp_steam_intermediates"] = "0.0.4",
+  ["zeus-wrath"] = "1.0.5"
 }
