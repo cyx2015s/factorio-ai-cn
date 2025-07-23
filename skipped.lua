@@ -375,5 +375,10 @@ return {
   ["version"] = "2.0.4",
   ["coverage"] = 0.9090909090909091,
   ["reason"] = "builtin"
+},
+  ["Electric_flying_enemies"] = {
+  ["version"] = "0.1.7",
+  ["coverage"] = 1.0,
+  ["reason"] = "builtin"
 }
 }
