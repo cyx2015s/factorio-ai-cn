@@ -239,5 +239,6 @@ return {
   ["Explosive_biters"] = "2.3.1",
   ["extinguisher"] = "2.0.0",
   ["Flammable_Oils_QUICKFIX"] = "0.2.22",
-  ["PollutionCombinator-JamieFork"] = "1.1.0"
+  ["PollutionCombinator-JamieFork"] = "1.1.0",
+  ["dimension-warp"] = "0.1.0"
 }
